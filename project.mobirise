@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kevin Gautner Website",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -280,7 +280,7 @@
             "bgColor": "#f2f2f2"
           },
           "title": "Headshots",
-          "meta": "<span style=\"font-style: normal;\">A gallery of Kevin Gautner's theatrical and commercial headshots.</span>",
+          "meta": "<span style=\"font-style: normal;\">A gallery of Kevin Gauntner's theatrical and commercial headshots.</span>",
           "_tags": [
             "Theme"
           ],
@@ -515,7 +515,7 @@
             "bgColor": "#f2f2f2"
           },
           "title": "Reels",
-          "meta": "<span style=\"font-style: normal;\">Kevin Gautner showcases his reel in TV/Film and other productions.</span><br>",
+          "meta": "<span style=\"font-style: normal;\">Kevin Gauntner showcases his reel in TV/Film and other productions.</span><br>",
           "_tags": [
             "Theme"
           ],
@@ -857,7 +857,7 @@
             "bgColor": "#f2f2f2"
           },
           "title": "Gallery",
-          "meta": "<span style=\"font-style: normal;\">A gallery of stills from productions Kevin Gautner have been involved in.</span><br>",
+          "meta": "<span style=\"font-style: normal;\">A gallery of stills from productions Kevin Gauntner have been involved in.</span><br>",
           "_tags": [
             "Theme"
           ],
