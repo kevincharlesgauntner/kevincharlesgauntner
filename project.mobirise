@@ -1342,7 +1342,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "38",
+            "imageSize": "39",
             "paddingTop": 0,
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -1380,7 +1380,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b>Kevin Charles Gauntner</b> is a Philadelphia-based actor who is known to immerse himself in the roles and characters he portrays. For over 5 years, he has worked under Kenneth John McGregor and currently trains under Robert Russel in NYC, who uses inspirations from Marlon Brando to improve his technique. <br><br>With a duo degree in Computer Science and Music (with a specialization in classical and jazz piano), Kevin combines both sides of his brain to create intelligent choices and strong relationships with the other actors in every scene. One of his most favorite roles is Dr. Erwin Spencer in The Decayed in which he enjoyed the opportunity to play a role outside of himself as a maniacal and selfish character.\n<br><br>When Kevin is not acting, Kevin works as a software developer and loves to read and volunteer at the local animal shelter. He also plays the guitar in a cover band and has released two albums as a solo artist and two others with a former band.\n<br>\n<br>",
+          "text": "<b><br></b><br><b>Kevin Charles Gauntner</b> is a Philadelphia-based actor who is known to immerse himself in the roles and characters he portrays. For over 5 years, he has worked under Kenneth John McGregor and currently trains under Robert Russel in NYC, who uses inspirations from Marlon Brando to improve his technique. <br><br>With a duo degree in Computer Science and Music (with a specialization in classical and jazz piano), Kevin combines both sides of his brain to create intelligent choices and strong relationships with the other actors in every scene. One of his most favorite roles is Dr. Erwin Spencer in The Decayed in which he enjoyed the opportunity to play a role outside of himself as a maniacal and selfish character.\n<br><br>When Kevin is not acting, Kevin works as a software developer and loves to read and volunteer at the local animal shelter. He also plays the guitar in a cover band and has released two albums as a solo artist and two others with a former band.\n<br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
