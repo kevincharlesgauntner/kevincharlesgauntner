@@ -881,6 +881,7 @@ section.form .container {
 #social-buttons4-1c .mbr-section-title {
   font-size: 10px;
 }
+
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -944,6 +945,9 @@ section.form .container {
 }
 #msg-box1-2 H3 {
   color: #0f1626;
+}
+#content2-1k SPAN {
+  font-family: 'Raleway', sans-serif;
 }
 #social-buttons4-11 .mbr-section-title,
 #social-buttons4-11 .btn-social {

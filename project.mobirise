@@ -39,7 +39,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 53,
+    "uniqCompNum": 57,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png"
   },
@@ -1342,9 +1342,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "38",
             "paddingTop": 0,
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1380,13 +1380,32 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "<b><i>Kevin Charles Gauntner</i></b> is a Philadelphia based actor who has studied the past 5 years under Kenneth John McGregor and currently under Robert Russell (acting trainer). He is looking to pursue a film and television acting career with aspirations of moving to NYC in the upcoming year.",
+          "text": "<b>Kevin Charles Gauntner</b> is a Philadelphia-based actor who is known to immerse himself in the roles and characters he portrays. For over 5 years, he has worked under Kenneth John McGregor and currently trains under Robert Russel in NYC, who uses inspirations from Marlon Brando to improve his technique. <br><br>With a duo degree in Computer Science and Music (with a specialization in classical and jazz piano), Kevin combines both sides of his brain to create intelligent choices and strong relationships with the other actors in every scene. One of his most favorite roles is Dr. Erwin Spencer in The Decayed in which he enjoyed the opportunity to play a role outside of himself as a maniacal and selfish character.\n<br><br>When Kevin is not acting, Kevin works as a software developer and loves to read and volunteer at the local animal shelter. He also plays the guitar in a cover band and has released two albums as a solo artist and two others with a former band.\n<br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-3"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#f2f2f2"
+          },
+          "text": "<blockquote>\"Acting is the chance to satisfy my creative side and display my talents to my peers. The biggest rush is when I am so immersed in a character and scene and I am living that moment as the character.\" \n</blockquote><blockquote><span style=\"font-style: normal;\"><b>-Kevin Gauntner&nbsp;</b></span></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1k",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         },
         {
           "_params": {
