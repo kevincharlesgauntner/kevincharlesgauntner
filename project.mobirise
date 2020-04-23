@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kevin Gautner Website",
-    "currentPage": "reels.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1409,11 +1409,11 @@
         },
         {
           "_params": {
-            "token": "",
+            "token": "16336891225.727bfe1.1de5ae7f687245ecbc2411f3b37688a1",
             "showTitle": true,
             "layoutGridRadio": true,
             "imagesPerRowGrid": 4,
-            "rows": 2,
+            "rows": "1",
             "showMoreButton": true,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
