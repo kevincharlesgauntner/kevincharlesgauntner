@@ -949,6 +949,9 @@ section.form .container {
 #content2-1k SPAN {
   font-family: 'Raleway', sans-serif;
 }
+#instagram-feed-block-1d .inst__title {
+  font-size: 30px;
+}
 #social-buttons4-11 .mbr-section-title,
 #social-buttons4-11 .btn-social {
   color: #fff;

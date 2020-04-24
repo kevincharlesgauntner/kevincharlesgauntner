@@ -1414,7 +1414,7 @@
             "layoutGridRadio": true,
             "imagesPerRowGrid": 4,
             "rows": "1",
-            "showMoreButton": true,
+            "showMoreButton": false,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
             "spacing": 5,
@@ -1438,7 +1438,12 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-1d"
+          "_anchor": "instagram-feed-block-1d",
+          "_styles": {
+            ".inst__title": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
