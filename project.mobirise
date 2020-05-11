@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kevin Gautner Website",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1123,9 +1123,9 @@
           },
           "title": "Contact Form",
           "subtitle": "<span style=\"font-style: normal;\">Kevin is a local hire in NYC and Philadelphia. Please complete the form below or email me at <b>kevincgauntner@gmail.com</b>.</span><br>",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "kevincgautner@gmail.com",
+            "action": "kevincgauntner@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
